@@ -36,5 +36,3 @@ Here are some ideas to get you started:
 + ![CivelXu](https://visitor-badge.glitch.me/badge?page_id=CivelXu.profile)
 -->
 
-- [Xiwen Xu](https://xuxiwen.tech/)
-- [Linktr](https://linktr.ee/xiwenxu)
