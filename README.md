@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 - 🔆 Overthink
 - 🤖 Geek
 - 🦋 INFP 
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CivelXu)](https://github.com/anuraghazra/github-readme-stats)
